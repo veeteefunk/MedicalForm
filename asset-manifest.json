@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MedicalForm/static/css/main.2cce8147.chunk.css",
+    "main.js": "/MedicalForm/static/js/main.10e7b0bc.chunk.js",
+    "main.js.map": "/MedicalForm/static/js/main.10e7b0bc.chunk.js.map",
+    "runtime~main.js": "/MedicalForm/static/js/runtime~main.dd53519d.js",
+    "runtime~main.js.map": "/MedicalForm/static/js/runtime~main.dd53519d.js.map",
+    "static/js/2.d86fa02c.chunk.js": "/MedicalForm/static/js/2.d86fa02c.chunk.js",
+    "static/js/2.d86fa02c.chunk.js.map": "/MedicalForm/static/js/2.d86fa02c.chunk.js.map",
+    "index.html": "/MedicalForm/index.html",
+    "precache-manifest.f58965eff48696ba9fa0abe23df61aaf.js": "/MedicalForm/precache-manifest.f58965eff48696ba9fa0abe23df61aaf.js",
+    "service-worker.js": "/MedicalForm/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/MedicalForm/static/css/main.2cce8147.chunk.css.map"
+  }
+}
